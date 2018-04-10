@@ -1,24 +1,6 @@
 # README
+This is a practice build of a blog app from Ruby on Rails http://guides.rubyonrails.org/getting_started.html
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I will most likely be continuing to update this to practice HTML/CSS/JS, as well as keep up to date with Rails practices.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Feel free to contribute or create/fix any issues!
